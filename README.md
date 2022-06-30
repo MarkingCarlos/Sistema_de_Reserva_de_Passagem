@@ -25,4 +25,4 @@
 
 
 
-feito com ❤️ por [Paola](https://gist.github.com/paolaguedes) e [Carlos](https://github.com/MarkingCarlos) 😸
+Feito por [Carlos](https://github.com/MarkingCarlos)  e [Paola](https://gist.github.com/paolaguedes).
